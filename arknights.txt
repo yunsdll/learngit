@@ -1,2 +1,6 @@
 amiya is the cutest girl in the world
-123456
+git init
+git add xxx
+git commit -m "xxx"
+git status
+git diff
