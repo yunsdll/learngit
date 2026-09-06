@@ -1,7 +1,9 @@
 amiya is the cutest girl in the world
 git init
-git add xxx
-git commit -m "xxx"
+git add xxx 暂存区
+git commit -m "xxx" master分支
 git status
 git diff
-git log--pretty=oneline
+git log--pretty=oneline  查看版本库
+git reset --hard HEAD^  (commit_id is also OK)
+git reflog 记录每一次命令
