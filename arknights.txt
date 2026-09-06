@@ -4,3 +4,4 @@ git add xxx
 git commit -m "xxx"
 git status
 git diff
+git log--pretty=oneline
